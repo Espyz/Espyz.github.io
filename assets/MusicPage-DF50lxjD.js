@@ -1,1 +1,0 @@
-import{F as o}from"./FooterDefault-oFWCdkcQ.js";import{_ as t,D as s,s as n,t as a,v as r}from"./index-Bmi0ehQj.js";const c=s({components:{FooterDefault:o}});function p(_,f,u,i,m,l){const e=n("FooterDefault");return a(),r(e)}const F=t(c,[["render",p],["__file","MusicPage.vue"]]);export{F as default};
